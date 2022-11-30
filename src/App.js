@@ -1,10 +1,16 @@
 import React from "react";
 
+import './components/style.css';
+
+import Meal from "./components/Meal";
+
 function App() {
   return (
-    <div>
-      Recipe
-    </div>
+    <>
+      <div>
+        <Meal />
+      </div>
+    </>
   );
 }
 
