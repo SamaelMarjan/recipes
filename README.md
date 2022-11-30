@@ -20,6 +20,11 @@
     - git push -u origin main
 
 # After the installation of react we will delete all the unneccecery file from src folder
+    - App.css
+    - App.test.js
+    - logo.svg
+    - reportWebVitals.js
+    - setupTests.js
 
 # And then we need to add a component folder and create a file called -
     - Meal.jsx
