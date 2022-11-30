@@ -31,17 +31,18 @@
 
 # Create another file
     - MealItem.jsx
-    # to show meal items from api and import MealItem.jsx to App.jsx
+    
+# to show meal items from api and import MealItem.jsx to App.jsx
 
     - RecipeIndex.jsx 
 
-    # in RecipeIndex.jsx we have to create a array of data called alpha and map it
+# in RecipeIndex.jsx we have to create a array of data called alpha and map it
 
     const alpha = [
     'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'
     ]
 
-    then -
+# then -
 
     return (
     <>
